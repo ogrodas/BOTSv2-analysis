@@ -4,8 +4,8 @@ Splunk has released a great dataset for testing log analysis and security monito
 
 This repo contains my analysis. 
 
-1. [Splunk setup](https://github.com/ogrodas/BOTSv2-analysis/blob/master/Splunk%20setup%20using%20docker.ipynb)
-2. [Sourcetypes](https://github.com/ogrodas/BOTSv2-analysis/blob/master/Sourcetypes%20overview.ipynb)
-3. [Assets](https://github.com/ogrodas/BOTSv2-analysis/blob/master/Assets%20overview.ipynb)
+1. [Splunk setup](https://github.com/ogrodas/BOTSv2-analysis/blob/master/splunk.ipynb)
+2. [Sourcetypes](https://github.com/ogrodas/BOTSv2-analysis/blob/master/sourcetypes.ipynb)
+3. [Assets](https://github.com/ogrodas/BOTSv2-analysis/blob/master/assets.ipynb)
 
 
