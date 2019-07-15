@@ -3,13 +3,17 @@
 Splunk has released a great dataset for testing log analysis and security monitoring use cases. The full name of the dataset is [Boss of the SOC (BOTS) Dataset Version 2](https://github.com/splunk/botsv2/). This repo contains my analysis. 
 
 **Basics**
-1. [Splunk setup](https://github.com/ogrodas/BOTSv2-analysis/blob/master/splunk.ipynb)
-2. [Sourcetypes](https://github.com/ogrodas/BOTSv2-analysis/blob/master/sourcetypes.ipynb)
-3. [Assets](https://github.com/ogrodas/BOTSv2-analysis/blob/master/assets.ipynb)
+* [Splunk setup](https://github.com/ogrodas/BOTSv2-analysis/blob/master/splunk.ipynb)
+* [Sourcetypes](https://github.com/ogrodas/BOTSv2-analysis/blob/master/sourcetypes.ipynb)
+* [Assets](https://github.com/ogrodas/BOTSv2-analysis/blob/master/assets.ipynb)
+
+**Tools**
+
+* [Processtree](https://github.com/ogrodas/BOTSv2-analysis/blob/master/proctree.ipynb)
 
 **Alarm analysis**
 
-1. [Palo Alto Networks(PAN)](https://github.com/ogrodas/BOTSv2-analysis/blob/master/paloaltonetworks.ipynb)
+* [Palo Alto Networks(PAN)](https://github.com/ogrodas/BOTSv2-analysis/blob/master/paloaltonetworks.ipynb)
 
 
 ## Some notes on definitions
