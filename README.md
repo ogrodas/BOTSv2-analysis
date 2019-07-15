@@ -7,9 +7,13 @@ Splunk has released a great dataset for testing log analysis and security monito
 2. [Sourcetypes](https://github.com/ogrodas/BOTSv2-analysis/blob/master/sourcetypes.ipynb)
 3. [Assets](https://github.com/ogrodas/BOTSv2-analysis/blob/master/assets.ipynb)
 
+**Tools**
+
+4. [Processtree](https://github.com/ogrodas/BOTSv2-analysis/blob/master/proctree.ipynb)
+
 **Alarm analysis**
 
-1. [Palo Alto Networks(PAN)](https://github.com/ogrodas/BOTSv2-analysis/blob/master/paloaltonetworks.ipynb)
+5. [Palo Alto Networks(PAN)](https://github.com/ogrodas/BOTSv2-analysis/blob/master/paloaltonetworks.ipynb)
 
 
 ## Some notes on definitions
