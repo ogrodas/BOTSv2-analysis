@@ -9,8 +9,9 @@ Splunk has released a great dataset for testing log analysis and security monito
 
 **Tools**
 
-* [Processtree](https://github.com/ogrodas/BOTSv2-analysis/blob/master/proctree.ipynb)
+* [Sigma](https://github.com/ogrodas/BOTSv2-analysis/blob/master/sigma.ipynb)
 * [ThreathuntingApp](https://github.com/ogrodas/BOTSv2-analysis/blob/master/threathuntingapp.ipynb)
+* [Processtree](https://github.com/ogrodas/BOTSv2-analysis/blob/master/proctree.ipynb)
 
 **Alarm analysis**
 
