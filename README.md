@@ -2,6 +2,9 @@
 
 Splunk has released a great dataset for testing log analysis and security monitoring use cases. The full name of the dataset is [Boss of the SOC (BOTS) Dataset Version 2](https://github.com/splunk/botsv2/). This repo contains my analysis. 
 
+I learned a lot form working on this dataset and would recommend testing it!. I think it is a good idea to try on your own first before looking at the finding in my attack analysis notebooks.
+
+
 **Basics**
 * [Splunk setup](https://github.com/ogrodas/BOTSv2-analysis/blob/master/splunk.ipynb)
 * [Sourcetypes](https://github.com/ogrodas/BOTSv2-analysis/blob/master/sourcetypes.ipynb)
