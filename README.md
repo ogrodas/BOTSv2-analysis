@@ -13,10 +13,11 @@ Splunk has released a great dataset for testing log analysis and security monito
 * [ThreathuntingApp](https://github.com/ogrodas/BOTSv2-analysis/blob/master/threathuntingapp.ipynb)
 * [Processtree](https://github.com/ogrodas/BOTSv2-analysis/blob/master/proctree.ipynb)
 
-**Alarm analysis**
+**Attack analysis**
 
-* [Palo Alto Networks(PAN)](https://github.com/ogrodas/BOTSv2-analysis/blob/master/paloaltonetworks.ipynb)
-
+* [11-15.aug www.brewertalk.com](https://github.com/ogrodas/BOTSv2-analysis/blob/master/11-15.aug%20attack%20on%20www.brewertalk.com.ipynb)
+* [18-19.aug MACLORY-AIR13S](https://github.com/ogrodas/BOTSv2-analysis/blob/master/18-19.aug%20crypto%20virus%20on%20MACLORY-AIR13S.ipynb)
+* [24-26.aug frothly.local](https://github.com/ogrodas/BOTSv2-analysis/blob/master/24-26.aug%20attack%20on%20frothly.ipynb)
 
 ## Some notes on definitions
 In intrusion detection there is often talk about events, alarms, alerts, signatures, incidents and notifications and there does not seem to be a agreed upon definition. 
