@@ -2,7 +2,7 @@
 
 Splunk has released a great dataset for testing log analysis and security monitoring use cases. The full name of the dataset is [Boss of the SOC (BOTS) Dataset Version 2](https://github.com/splunk/botsv2/). This repo contains my analysis. 
 
-I learned a lot form working on this dataset and would recommend testing it!. I think it is a good idea to try on your own first before looking at the finding in my attack analysis notebooks.
+I learned a lot form working on this dataset and would recommend testing it!. I think it is a good idea to try on your own first before looking at the finding in my attack analysis notebooks. I used most of the time on the analsys of the 24-26.aug attack on frothly.local. The other two attack analsys neeeds more work
 
 Githubs nbviewer is sometimes failing. A good alternativ is [the official nbviewer](https://nbviewer.jupyter.org/github/ogrodas/BOTSv2-analysis/tree/master/)
 
