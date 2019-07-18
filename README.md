@@ -4,7 +4,7 @@ Splunk has released a great dataset for testing log analysis and security monito
 
 I learned a lot form working on this dataset and would recommend testing it!. I think it is a good idea to try on your own first before looking at the finding in my attack analysis notebooks.
 
-Githubs nbviewer is sometimes failing. A good alternativ is[the official nbviewer](https://nbviewer.jupyter.org/github/ogrodas/BOTSv2-analysis/tree/master/)
+Githubs nbviewer is sometimes failing. A good alternativ is [the official nbviewer](https://nbviewer.jupyter.org/github/ogrodas/BOTSv2-analysis/tree/master/)
 
 **Basics**
 * [Splunk setup](https://github.com/ogrodas/BOTSv2-analysis/blob/master/splunk.ipynb)
